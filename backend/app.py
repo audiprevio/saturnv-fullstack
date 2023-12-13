@@ -25,7 +25,7 @@ app.register_blueprint(users_bp)
 @app.route('/place-details', methods=['GET'])
 def get_place_details():
     place_id = request.args.get('placeId')
-    response = requests.get(f'https://maps.googleapis.com/maps/api/place/details/json?placeid={place_id}&key=AIzaSyCt5pAGYuQNO4U89Wvjg1hc_gtcqF-oOR0')
+    response = requests.get(f'https://maps.googleapis.com/maps/api/place/details/json?placeid={place_id}&key={yourAPIKey}')
     data = json.loads(response.text)
     return data
     
