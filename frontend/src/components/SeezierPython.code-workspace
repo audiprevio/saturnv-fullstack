@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../seepythonbackup/SeePython-Private-Backup"
+		},
+		{
+			"path": "../../../Backend"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
