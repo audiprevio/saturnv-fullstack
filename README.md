@@ -1,6 +1,31 @@
 
 # Saturn V: Fullstack Google Maps-based Task Manager
 
+## Table of Contents
+1. [Overview](#overview)
+2. [SaturnV's Features](#saturnvs-features)
+3. [Tech Stack](#tech-stack)
+   - [Frontend](#frontend)
+   - [Backend](#backend)
+4. [Setup and Installation](#setup-and-installation)
+5. [Running the Application](#running-the-application)
+   - [Backend](#backend-1)
+   - [Frontend](#then-run-the-frontend)
+6. [Frontend Documentation](#frontend-documentation)
+   - [Disclaimer: Initializing Google Maps API](#disclaimer-initializing-google-maps-api)
+   - [Project Structure](#project-structure)
+      - [Folder - Contexts](#folder-contexts)
+      - [Folder - Providers](#folder-providers)
+      - [Folder - Pages](#folder-pages)
+      - [Folder - Map and Sidebar Containers](#folder-map-and-sidebar-containers)
+      - [Folder - Sidebar Containers](#folder-sidebar-containers)
+      - [Other components](#other-components)
+      - [hoc](#hoc)
+7. [API Documentation](#api-documentation)
+   - [Tasks API](#tasks-api)
+   - [Users API](#users-api)
+8. [Known Issues](#known-issues)
+9. [Credits](#credits)
 
 ## Overview
 
