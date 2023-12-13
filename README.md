@@ -1,5 +1,8 @@
 
-# Saturn V: Fullstack Google Maps-based Task Manager
+# SaturnV: Fullstack Google Maps-based Task Manager
+
+<img width="1200" alt="Screenshot 2023-12-13 at 10 59 57" src="https://github.com/audiprevio/saturnv-fullstack/assets/126348614/daa00991-4808-4c60-8c13-2080f70be1fa">
+
 
 ## Table of Contents
 1. [Overview](#overview)
